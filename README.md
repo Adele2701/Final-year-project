@@ -8,3 +8,5 @@ Software used:
 - Unity(C#) - create mini games and spawn models onto physical world
 - Vuforia and ARCore as SDK for Android mobile (for comparison)
 - Adobe Illustartor to modify vector graphics (source from Freepik.com)
+
+APK file: https://drive.google.com/file/d/1XlYmROSkHs3IwCIA8ay85lCUBwCG886E/view?usp=sharing (download with caution)
